@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b3f2289-6388-4647-9903-4a5dfcf294ff" name="Default Changelist" comment="" />
+    <list default="true" id="9b3f2289-6388-4647-9903-4a5dfcf294ff" name="Default Changelist" comment="test commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j6j0YonN1SO0qSjvxsxK99OBj6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,6 +27,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\Desktop\Vives\Web development\persoonlijkePagina\html5" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,7 +46,10 @@
       <workItem from="1603914117845" duration="633000" />
       <workItem from="1633523043928" duration="1514000" />
       <workItem from="1633524872859" duration="632000" />
-      <workItem from="1634128093070" duration="5000" />
+      <workItem from="1634128093070" duration="758000" />
+      <workItem from="1634729905479" duration="887000" />
+      <workItem from="1634732467481" duration="1185000" />
+      <workItem from="1634733690777" duration="137000" />
     </task>
     <servers />
   </component>
