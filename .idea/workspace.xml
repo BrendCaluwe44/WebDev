@@ -11,6 +11,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -26,10 +27,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\Desktop\Vives\Web development\persoonlijkePagina\persoonlijkePagina\styles" />
       <recent name="C:\Users\Gebruiker\Desktop\Vives\Web development\persoonlijkePagina\html5" />
     </key>
   </component>
@@ -53,6 +57,18 @@
       <workItem from="1634733938086" duration="24000" />
       <workItem from="1634734107169" duration="14000" />
       <workItem from="1635105658840" duration="1057000" />
+      <workItem from="1635334245346" duration="1381000" />
+      <workItem from="1635336901807" duration="1606000" />
+      <workItem from="1635338713200" duration="1079000" />
+      <workItem from="1636547823340" duration="1426000" />
+      <workItem from="1636549598065" duration="1792000" />
+      <workItem from="1636551410943" duration="1785000" />
+      <workItem from="1636553221282" duration="1505000" />
+      <workItem from="1636555039595" duration="1273000" />
+      <workItem from="1637075565827" duration="1757000" />
+      <workItem from="1637077341557" duration="6812000" />
+      <workItem from="1637084174466" duration="1791000" />
+      <workItem from="1637085983872" duration="1748000" />
     </task>
     <servers />
   </component>
@@ -60,9 +76,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-6" y="0" width="781" height="830" key="dock-window-1" timestamp="1603139655229">
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1635334324577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-6" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1603139655229" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1635334324577" />
   </component>
 </project>
