@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -33,11 +33,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\Desktop\Vives\Web development\persoonlijkePagina\css labo6" />
       <recent name="C:\Users\Gebruiker\Desktop\Vives\Web development\persoonlijkePagina\css4\css" />
       <recent name="C:\Users\Gebruiker\Desktop\Vives\Web development\persoonlijkePagina\css4" />
       <recent name="C:\Users\Gebruiker\Desktop\Vives\Web development\persoonlijkePagina\css4\opdracht1\voorbeelden" />
       <recent name="C:\Users\Gebruiker\Desktop\Vives\Web development\persoonlijkePagina\persoonlijkePagina\styles" />
-      <recent name="C:\Users\Gebruiker\Desktop\Vives\Web development\persoonlijkePagina\html5" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -79,6 +79,9 @@
       <workItem from="1637155670099" duration="1795000" />
       <workItem from="1637157483583" duration="1807000" />
       <workItem from="1637159309620" duration="1108000" />
+      <workItem from="1638363792917" duration="1758000" />
+      <workItem from="1638365579782" duration="1793000" />
+      <workItem from="1638367393044" duration="2364000" />
     </task>
     <servers />
   </component>
